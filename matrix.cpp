@@ -6,7 +6,7 @@
 
 void random_walk(int(*a)[COLS], int rows);
 void show(int *a, int rows, int cols);
-
+//test test
 int main(void)
 {
 	int A[ROWS][COLS];
